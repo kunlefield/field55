@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.exe
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.deps.json
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.runtimeconfig.json
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.runtimeconfig.dev.json
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.dll
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\ref\myfirstcode.dll
+C:\Users\USER\Desktop\myfirstcode\bin\Debug\net5.0\myfirstcode.pdb
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.AssemblyInfo.cs
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.dll
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\ref\myfirstcode.dll
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.pdb
+C:\Users\USER\Desktop\myfirstcode\obj\Debug\net5.0\myfirstcode.genruntimeconfig.cache
